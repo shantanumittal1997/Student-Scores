@@ -1,8 +1,8 @@
-#Student Scores API
+# Student Scores API
 
 _API for CRUD operations for Students, Subjects and Scores_
 
-##Instructions
+## Instructions
 
 1. Install requirements from requirements.txt
 
